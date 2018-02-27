@@ -1,0 +1,81 @@
+.body {
+  background-color: #FAF3E9;
+  font-family: 'Lobster', cursive;
+}
+
+.container {
+width: 1280px;
+margin: auto;
+}
+
+.header {
+background-color: #2A2927 ;
+height: 80px;
+display: flex;
+justify-content: space-between;
+
+}
+
+.logo {
+    font-size: 30px;
+    color: #FAF3E9;
+    align-self: center;
+    margin-left: 60px;
+  }
+
+.list-item {
+  color: #FAF3E9;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+  list-style-type: none;
+}
+
+.menu { 
+display: flex;
+font-size: 20px;
+align-items: center;
+margin-right: 60px;
+font-weight: bold;
+}
+
+.wrap {
+display: flex;
+justify-content: space-around;
+}
+
+.content
+
+
+.heading
+
+.box-text {
+
+  justify-content: space-between;
+
+}
+
+.text {
+  
+  text-align: justify;
+  width: 55%;
+  float: right;
+  margin-right: 40px;
+  
+}
+
+.image{
+width: 400px;
+height: auto;
+
+
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  width: 100%;
+}
